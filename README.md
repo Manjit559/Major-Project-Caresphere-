@@ -37,6 +37,7 @@ Disgusted
 Perfect for understanding how your daily mood changes.
 
 
+
 🎤 Voice Reflection
 
 Talk freely.
@@ -51,6 +52,7 @@ Relaxation guidance
 Stress-relief tips
 
 
+
 💬 Smart Chat
 
 Type anything on your mind and get:
@@ -62,6 +64,7 @@ Study plans
 Emotional support
 
 Mental clarity suggestions
+
 
 
 🗂️ Productivity Coach
